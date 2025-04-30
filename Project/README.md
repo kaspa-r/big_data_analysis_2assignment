@@ -19,8 +19,7 @@ This Jupyter Notebook contains analysis on people that have or not had strokes a
     4.2. `Permutation Importance`
     4.3. `SHAP Values`
 5. `Model Testing`
-6. `Model Deployment`
-7. `Avenues for Improvement`
+6. `Avenues for Improvement`
 
 ## Variables Used
 
